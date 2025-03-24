@@ -1,0 +1,19 @@
+#git clone http://github.com/htr-teach/zphinsher.git
+Cloning into 'phisher' ...
+remote: Enumerating objects: 1801, done. remote: Counting objects: 100% (15/15), done. remote: Compressing objects: 100% (12/12), done.
+remote: Total 1801 (delta 6), reused 9 (delta 3), pack-reused 1786 (from 1)
+Receiving objects: 100% (1801/1801), 28.69 MiB | 2.96 MiB/s, done.
+Resolving deltas: 100% (808/808), done.
+Desktop Documents Downloads hack.apk hack.pdf k.pdf Music Pictures Public Templates Videos
+kali)-[/home/kali/zphisher]
+1s
+Dockerfile LICENSE make-deb.sh README.md run-docker.sh scripts zphisher.sh
+lals)-[/home/kali/zphisher]
+bash zphisher.sh
+[+] Installing required packages...
+[+] Packages already installed.
+[+] Internet Status : Online
+[+] Checking for update : up to date
+AL
+[+] Installing Cloudflared ...
+[+] Installing LocalXpose ...
